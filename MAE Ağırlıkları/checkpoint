@@ -1,0 +1,2 @@
+model_checkpoint_path: "rae_decoder_weights_file"
+all_model_checkpoint_paths: "rae_decoder_weights_file"
