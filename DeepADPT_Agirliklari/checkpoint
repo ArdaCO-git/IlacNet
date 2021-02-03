@@ -1,0 +1,2 @@
+model_checkpoint_path: "New_DeepADTP_weights"
+all_model_checkpoint_paths: "New_DeepADTP_weights"
